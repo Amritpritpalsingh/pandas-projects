@@ -53,7 +53,7 @@ P5  | Movies Dataset Analysis        | Entertainment Data     | Revenue, Ratings
 # ☁️ How to Use This Repository
 
 # 1. Clone the repository
-git clone https://github.com/your-username/pandas-projects.git
+git clone https://github.com/Amritpritpalsingh/pandas-projects.git
 
 # 2. Navigate to a project folder
 cd pandas-projects/project-01-tips-analysis
