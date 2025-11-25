@@ -72,11 +72,4 @@
 4. City with most orders
 5. Day with highest revenue
 
-# -----------------------------------------
-# ✅ Task 8: Optional (Portfolio Tasks)
-# -----------------------------------------
-1. Bar chart → revenue by product line
-2. Line chart → daily revenue trend
-3. Pie chart → payment method distribution
-4. Export cleaned data → CSV
-   df.to_csv("clean_supermarket_sales.csv", index=False)
+
