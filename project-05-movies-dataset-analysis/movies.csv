@@ -1,0 +1,11 @@
+Movie_ID,Title,Genre,Director,Year,Runtime,Rating,Revenue_Millions
+1,Inception,Action,Christopher Nolan,2010,148,8.8,829.9
+2,The Dark Knight,Action,Christopher Nolan,2008,152,9.0,1004.9
+3,Interstellar,Sci-Fi,Christopher Nolan,2014,169,8.6,677.5
+4,Titanic,Romance,James Cameron,1997,195,7.8,2187.5
+5,Avatar,Sci-Fi,James Cameron,2009,162,7.8,2847.2
+6,The Godfather,Crime,Francis Ford Coppola,1972,175,9.2,246.1
+7,The Shawshank Redemption,Drama,Frank Darabont,1994,142,9.3,28.3
+8,Avengers: Endgame,Action,Anthony Russo,2019,181,8.4,2797.5
+9,Parasite,Thriller,Bong Joon-ho,2019,132,8.6,258.8
+10,The Lion King,Animation,Roger Allers,1994,88,8.5,968.5
