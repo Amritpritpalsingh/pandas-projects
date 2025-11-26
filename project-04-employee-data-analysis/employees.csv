@@ -1,0 +1,11 @@
+Emp_ID,Name,Age,Gender,Department,Salary,Experience_Years
+101,Ashwin,29,M,IT,85000,5
+102,Neha,34,F,HR,72000,7
+103,Raj,41,M,Finance,95000,11
+104,Simran,26,F,Marketing,60000,3
+105,Vikram,38,M,IT,118000,12
+106,Riya,31,F,Finance,83000,6
+107,Karan,45,M,Management,150000,18
+108,Pooja,27,F,HR,68000,4
+109,Arjun,36,M,Marketing,79000,8
+110,Sneha,23,F,IT,54000,1
